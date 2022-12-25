@@ -1,0 +1,15 @@
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\bin\Debug\net7.0\example015.exe
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\bin\Debug\net7.0\example015.deps.json
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\bin\Debug\net7.0\example015.runtimeconfig.json
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\bin\Debug\net7.0\example015.dll
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\bin\Debug\net7.0\example015.pdb
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\obj\Debug\net7.0\example015.csproj.AssemblyReference.cache
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\obj\Debug\net7.0\example015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\obj\Debug\net7.0\example015.AssemblyInfoInputs.cache
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\obj\Debug\net7.0\example015.AssemblyInfo.cs
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\obj\Debug\net7.0\example015.csproj.CoreCompileInputs.cache
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\obj\Debug\net7.0\example015.dll
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\obj\Debug\net7.0\refint\example015.dll
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\obj\Debug\net7.0\example015.pdb
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\obj\Debug\net7.0\example015.genruntimeconfig.cache
+C:\Users\vmuto\OneDrive\Рабочий стол\Новая папка\HomeWork\example015\obj\Debug\net7.0\ref\example015.dll
